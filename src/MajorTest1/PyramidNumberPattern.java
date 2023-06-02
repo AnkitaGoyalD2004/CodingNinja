@@ -1,6 +1,7 @@
 package CodingNinjasTest;
 import java.util.Scanner;
-public class PyramidNumberPattern {
+public class PyramidNumberPattern 
+{
     public static void main(String[] args){
         int i,j,row;
         Scanner s = new Scanner(System.in);
